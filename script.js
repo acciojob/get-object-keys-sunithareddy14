@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const student = { name : "sunitha"};
+const student = { name : "John"};
 function getKeys(){
 	return Object.keys(this);
 }
